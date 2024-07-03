@@ -1,5 +1,5 @@
 # Customer Segmentation, Cohort & RFM Analysis with K-Means Clustering
-
+ ![mv](gg.webp)
 ## Overview
 This project involves analyzing customer transactions to segment customers and optimize sales strategies. The workflow includes data cleaning, exploratory data analysis, RFM analysis, customer segmentation, K-Means clustering, and cohort analysis.
 
