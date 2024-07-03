@@ -115,4 +115,16 @@ from pandas_profiling.report.presentation.flavours.html.templates import create_
 from wordcloud import WordCloud
 import squarify as sq
 ```
+## Conclusion
+This project demonstrates the application of various data science techniques to segment customers and improve sales strategies. By analyzing customer transactions, performing RFM analysis, and utilizing K-Means clustering, we can identify distinct customer segments and develop targeted marketing strategies. Cohort analysis further enhances our understanding of customer behavior, aiding in retention and optimizing resource allocation.
+
+## References
+- Scikit-learn Documentation
+- Pandas Documentation
+- Plotly Documentation
+- Kaggle Datasets
+
+## License
+This project is licensed under the Apache 2.0 License. See the LICENSE file for more details.
+
 
