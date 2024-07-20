@@ -35,9 +35,6 @@ df.head()
 df.describe()
 ```
 
- ![mv](gg.webp)
- 
-
 ### 3. Data Preparation
 
 Univariate analysis involves analyzing individual columns to understand their distribution. This includes visualizing the distribution of Age, Annual Income, and Spending Score using KDE plots and box plots.
@@ -64,7 +61,7 @@ Correlation analysis helps identify the relationships between numeric variables.
 
 #### Correlation Matrix
 
- ![mv](Correlation Matrix.png)
+ ![mv](CorrelationMatrix.png)
 
 ```python
 correlation_matrix = df.corr()
@@ -74,7 +71,7 @@ sns.heatmap(correlation_matrix, annot=True, cmap='RdYlBu')
 ### 4. Modeling
 
 We use the K-Means clustering algorithm to segment customers.
- ![mv](Scatter Plot.png)
+ ![mv](ScatterPlot.png)
  
 #### Univariate Clustering
 
